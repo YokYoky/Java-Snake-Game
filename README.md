@@ -61,12 +61,6 @@ Linked List - represent the snake body
 
 VI. **CONCLUSION:**
 
-The goal of this simple Java dictionary program is to give users a quick and easy
-way to look up definitions of words. To guarantee a high-quality final product, the
-project will be developed iteratively, incorporating user feedback and testing on a
-regular basis. creating a Java Dictionary application that is a dynamic and ever-
-evolving resource for language enthusiasts, encouraging user contributions in
-addition to being a potent word lookup tool.
-
+ Summarize the proposal, reiterating the importance of the project and its alignment with the specified objectives. Include any anticipated outcomes or benefits.
 
 
