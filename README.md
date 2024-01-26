@@ -53,7 +53,8 @@ Linked List - represent the snake body
 
 **Break down the development process into stages or milestones. Provide an estimated timeline for each stage, considering factors like learning curve, complexity, and testing.**
 - **Week 1 :** Set up the project, design basic classes (Snake, Game Board), and implement basic movement. 
-- **Week 2 :** Implement food generation, collision detection, and game over conditions. Week 3 : Integrate scoring system, user interface, and finalize testing. 
+- **Week 2 :** Implement food generation, collision detection, and game over conditions.
+- **Week 3 :** Integrate scoring system, user interface, and finalize testing. 
 - **Week 4 :** Polish the game, address any issues, and prepare for submission. 
 - **Week 5 :** Checking. 
 
