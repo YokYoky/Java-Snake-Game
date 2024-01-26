@@ -13,9 +13,9 @@ UNGAY, JAENY ANNE
 
 ### I. PROJECT OVERVIEW:
 
-```
+
 Introduce the project by providing context and explaining the motivation behind developing a Snake Game in Java. Discuss the educational or entertainment value it aims to bring fun and simplicity of snake game. In that project it calculate score and time.
-```
+
 
 ### II. OBJECTIVES:
 
