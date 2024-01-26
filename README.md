@@ -1,3 +1,5 @@
+scuffed snake game project
+
 ## PROJECT PROPOSAL:
 
 # Snake Game
