@@ -45,45 +45,27 @@ Clearly state the objectives of the project. This could include learning Java pr
 ### IV. TECHNOLOGY STACK:
 
 - **Language:**
-    Java Programming Language
-
-
-- **Data Structure:**
-    Hash Map (keeps the data in pairs (Key, Value), which you can access using a
-    different kind of index.)
-- **User Interface:**
-    Command-Line Interface (software that runs operating system tasks by accepting
-    text input.)
-
+Java Programming Language
+- **Data Structure: Applied**
+Linked List - represent the snake body
 
 ### V. TIMELINE:
 
-- **Week 1** (PROJECT SET UP DESIGN)
-    Define project requirements and specifications.
-    Set up the development environment (Java, IDE, version control).
-    Design the program's structure and user interface.
-- **Week 2** (IMPLEMENTING FEATURES)
-    Put word search functionality into practice.
-    Create the user interface that shows word definitions.
-    Establish the system for incorporating new terms into the lexicon.
-- **Week 3** (ERROR HANDLING & DATA STORAGE)
-    Implement data storage for word definitions.
-    Include error-handling components to make sure the program is reliable.
-    To find and address possible problems, carry out extensive testing.
-- **Week 4** (USER INTERFACE REFINEMENT & TESTING)
-    Improve the user experience by making changes to the user interface.
-    Conduct extensive testing to identify and fix any remaining bugs.
-- **Week 5** (FINALIZATION)
-    Finalize all the parts of the program/system
-    Do a lot of error checking for possible errors
-    Finishing touches
+**Break down the development process into stages or milestones. Provide an estimated timeline for each stage, considering factors like learning curve, complexity, and testing.**
+- **Week 1 :** Set up the project, design basic classes (Snake, Game Board), and implement basic movement. 
+- **Week 2 :** Implement food generation, collision detection, and game over conditions. Week 3 : Integrate scoring system, user interface, and finalize testing. 
+- **Week 4 :** Polish the game, address any issues, and prepare for submission. 
+- **Week 5 :** Checking. 
+
 
 VI. **CONCLUSION:**
+
 The goal of this simple Java dictionary program is to give users a quick and easy
 way to look up definitions of words. To guarantee a high-quality final product, the
 project will be developed iteratively, incorporating user feedback and testing on a
 regular basis. creating a Java Dictionary application that is a dynamic and ever-
 evolving resource for language enthusiasts, encouraging user contributions in
 addition to being a potent word lookup tool.
+
 
 
